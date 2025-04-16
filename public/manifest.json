@@ -1,0 +1,20 @@
+{
+    "name": "Vision Voice",
+    "short_name": "VisionVoice",
+    "description": "Accessibility Application for Visually Impaired",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "images/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ],
+    "prefer_related_applications": false
+} 
